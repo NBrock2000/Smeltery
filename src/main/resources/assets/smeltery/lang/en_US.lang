@@ -1,0 +1,9 @@
+# Items
+item.smeltery:SmeltingCore.name=Smelting Core
+
+# Blocks
+tile.smeltery:StoneSmeltery.name=Stone Smeltery
+tile.smeltery:StoneFrame.name=Stone Frame
+
+# Creative Tab
+itemGroup.smeltery=Smeltery

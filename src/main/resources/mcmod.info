@@ -1,0 +1,41 @@
+[
+
+{
+
+  "modid": "smeltery",
+
+  "name": "Smeltery",
+
+  "description": "A mod that adds faster smelting furnaces.",
+
+  "version": "1.0",
+
+  "mcversion": "1.7.10",
+
+  "url": "",
+
+  "updateUrl": "",
+
+  "authorList": [
+
+    "StripiestZebra7"
+
+  ],
+
+  "credits": "Pahimar's Let's Mod Reboot YouTube series",
+
+  "logoFile": "",
+
+  "screenshots": [
+
+  ],
+
+  "parent":"",
+
+  "dependencies": [
+
+  ]
+
+}
+
+]
